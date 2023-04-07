@@ -1,2 +1,2 @@
 # Projects
-Notable projects I created in CS128 
+Notable C++ projects I created in CS128 
